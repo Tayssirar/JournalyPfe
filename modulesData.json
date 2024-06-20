@@ -1,0 +1,1187 @@
+{
+    "modules": [
+        {
+            "nom": "Vive l’école !",
+            "journées": {
+                "1": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Mise en train : Poème : « L’école » ou « Le nombre 1 »\nChant et conte au choix de l’enseignant.\n",
+                                "supports": ""
+                            }
+                        }
+                    ]
+                },
+                "2": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : • Présentation du mini-projet n° 1 «Je raconte un événement de la vie quotidienne.» - Début de planification.\n• Présentation du module 1 et de la fiche-contrat.\n",
+                                "supports": "Manuel\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Étude des graphies : –Reconnaître auditivement et visuellement la graphie z = s.\n–Reproduire la lettre z.\n–Lire des phrases.\n\nP.E.L. : –Identifier et construire des phrases.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "3": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Rendre compte d’un événement de la vie quotidienne :\n• identifier des personnes, des lieux et des actions.\n• situer une personne dans le temps et dans l’espace.\n• donner une information sur une personne.\n– Justifier un comportement.\n– Donner un avis sur un comportement.\n– S’excuser. \n",
+                                "supports": "Support collectif : M1 - planches 1 et 2.\nP = Planche de dessin.\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Compréhension : Texte : “la nouvelle élève”\n–Manifester sa compréhension en réalisant les activités proposées.\n–Poser des questions.\n–Lire de manière intelligible et expressive.\n\nÉcriture : –Reproduire la lettre majuscule : A.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "4": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Reprise des objectifs de la J2\n– Décrire des actions.\n",
+                                "supports": "T.F. + Figurines/images / dessins\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Étude des graphies : –Reconnaître auditivement et visuellement la graphie k - q.\n–Reproduire la lettre k.\n–Lire des phrases.\n\nP.E.L. : –Conjuguer le verbe “être” au présent.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "5": {
+                    "sections": [
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Fonctionnement : Texte : “la nouvelle élève”\n–Identifier les personnages et les actions\n– Repérer les répliques\n\nÉcriture : –Reproduire la lettre majuscule : M\n\nAutodictée : –Reproduire de mémoire le paragraphe suivant :\n“Amélie est en classe. Elle dessine des cerises et des fraises.”\n\nProjet (Entraînement) : –Se reprérer dans le récit.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "6": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Rendre compte d’un événement de la vie quotidienne :\n• présenter / se présenter\n• identifier des personnes, des lieux et des actions.\n• situer une personne / une action dans le temps et dans l’espace.\n– Donner / demander une information sur une personne.\n– Justifier une attitude. \n",
+                                "supports": "Support collectif :\nM1 - J5 - P1 - 2\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Étude des graphies : –Reconnaître auditivement et visuellement la graphie g = g.\n–Reproduire la lettre g.\n–Lire des phrases.\n\nP.E.L. : –Produire des phrases intégrant le verbe “être” au présent.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "7": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Reprise des objectifs de la J5.\n– Situer une action par rapport à une autre.\n",
+                                "supports": "T.F. + figurines\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture : a) Compréhension\nTexte : “les deux amies”\n–Manifester sa compréhension en réalisant les activités proposées.\n–Poser des questions.\n–Lire de manière intelligible et expressive.\nb)Fonctionnement\n–Se repérer dans le récit.\n\nÉcriture : –Reproduire la lettre majuscule : N.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "8": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Identifier des personnes, des lieux et des actions.\n– Présenter / se présenter.\n– Donner / demander une information sur une personne.\n– Décrire un lieu (la maison des jeunes)\n– Indiquer la finalité d’une action.\n– Emettre des hypothèses.\n",
+                                "supports": "Support collectif :\nJ7 - P1 - 2\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Page vocabulaire : –Utiliser le vocabulaire appris au cours du module dans des activités ludiques.\n\nDictée : –Écrire sous la dictée du maître le texte suivant:“Max est un garçon. Il porte un beau képi bleu et une jolie chemise grise.”\n",
+                                "supports": "Manuel\n"
+                            }
+                        }
+                    ]
+                },
+                "9": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : Exploitation de la page documentaire « Je découvre »\nLes droits et les devoirs de l’enfant\n",
+                                "supports": "Manuel\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Page documentaire : –S’informer sur “Les droits et les devoirs de l’enfant”\n\nProjet (entraînement) : –Identifier les personnages.\n–Distinguer événements et dialogue.\n\nJ’agis : –Fabriquer la ronde des enfants.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "nom": "Bienvenue chez les Duval !",
+            "journées": {
+                "1": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Mise en train : Poème : « L’âge de raison » ou « Petit bébé »\nChant et conte au choix de l’enseignant. \n",
+                                "supports": ""
+                            }
+                        }
+                    ]
+                },
+                "2": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Rappel du mini-projet n° 1 : « Je raconte un événement de la  quotidienne.»\n– Brèves mises au point.\n– Présentation du module 2 et de la fiche-contrat.\n",
+                                "supports": "Manuel\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Étude des graphies : –Reconnaître auditivement et visuellement les graphies ette - elle - esse - erre\n–Reproduire les graphies: ette - elle - esse - erre\n–Lire des phrases.\n\nP.E.L. : –Identifier et manipuler les types et les formes de phrases.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "3": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : Rendre compte d’un événement de la vie quotidienne :\n• localiser des personnages\n• nommer et énumérer des objets\n• indiquer la finalité d’une action.\n",
+                                "supports": "Support collectif :\nJ2 - P 1 et 2\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Compréhension : Texte “ Jeannot et sa petite sœur (1)”\n–Manifester sa compréhension en réalisant les activités proposées.\n–Poser des questions.\n–Lire de manière intelligible et expressive.\n\nÉcriture : –Reproduire la lettre majuscule : O.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "4": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Reprise des objectifs de la J2.\n– Indiquer la finalité d’une action.\n",
+                                "supports": "T.F. + figurines/images / dessins\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Étude des graphies : –Reconnaître auditivement et visuellement les graphies ien - ienne.\n–Reproduire les graphies ien - ienne.\n–Lire des phrases.\n\nP.E.L. : –Conjuguer le verbe “avoir” au présent.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "5": {
+                    "sections": [
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Fonctionnement : Texte “ Jeannot et sa petite sœur (1)”\n–Se repérer dans le récit.\n–Identifier les lieux et les temps.\n\nÉcriture : –Reproduire la lettre majuscule : Q.\n\nAutodictée : –Reproduire de mémoire le paragraphe suivant :\n“Olivier a une jolie chienne et un joli chiot. Il leur donne du lait dans une assiette.”\n\nProjet (Entraînement) : –Distinguer événements et dialogue.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "6": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Rendre compte d’un événement de la vie quotidienne :\n• identifier des personnes\n• situer une personne dans le temps et dans l’espace\n• situer une action par rapport à une autre.\n• indiquer la finalité d’une action.\n– décrire une personne / un état (joie)\n",
+                                "supports": "Support collectif :\nJ7 - P 1 - 2 - 3 \n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Étude des graphies : –Reconnaître auditivement et visuellement les graphies ill - eil - ail.\n–Reproduire les graphies ill - eil - ail.\n–Lire des phrases.\n\nP.E.L. : –Produire des phrases intégrant les types et formes de phrases et le verbe “avoir” au présent.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "7": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Reprise des objectifs de la J5.\n– Décrire une personne.\n",
+                                "supports": "T.F. + figurines\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture : a) Compréhension\nTexte “ Jeannot et sa petite sœur (2)”\n–Manifester sa compréhension en réalisant les activités proposées.\n–Poser des questions.\n–Lire de manière intelligible et expressive.\nb)Fonctionnement\n–Identifier les lieux et les temps.\n–Se repérer dans le récit.\n\nÉcriture : –Reproduire la lettre majuscule : C.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "8": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Rendre compte d’un événement :\n• situer des personnes\n• décrire des personnes / un comportement\n• Indiquer la finalité d’une action.\n",
+                                "supports": "Support collectif :\nJ7 - P 1 - 2 3\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Page vocabulaire : –Utiliser le vocabulaire appris au cours du module dans des activités ludiques: charades/ roue des mots.\n\nDictée : –Écrire sous la dictée du maître le texte suivant:“La mère de Caroline est pharmacienne. Son père est mécanicien. Il a beaucoup de travail.”\n",
+                                "supports": "Manuel\n"
+                            }
+                        }
+                    ]
+                },
+                "9": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : Exploitation de la page documentaire « Je découvre »\nLa famille Duval - Les fêtes de famille\n",
+                                "supports": ""
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Page documentaire : –S’informer sur “La famille Duval” et “Les fêtes de famille”.\n\nProjet Production : Raconter un événement de la vie quotidienne.\n\nJ’agis : –Fabriquer une carte amusante.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "nom": "Sois mon ami !",
+            "journées": {
+                "1": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Mise en train : Poème : « L’homme qui te ressemble » ou « Le soleil et la terre »\nChant et conte au choix de l’enseignant. \n",
+                                "supports": ""
+                            }
+                        }
+                    ]
+                },
+                "2": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Présentation du Module et début de planification du mini-projet n° 2 : « Je fais parler des personnages en racontant un événement ».\n– Présentation du module 3 et de la fiche-contrat.\n",
+                                "supports": "Manuel\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Étude des graphies : –Reconnaître auditivement et visuellement les graphies \neil - euille - ouil - ouille\n–Reproduire les graphies :\neuil - euille - ouil - ouille\n–Lire des phrases\n\nP.E.L. : –Identifier les deux groupes de la phrase.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "3": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Rendre compte d’un événement de la vie quotidienne :\n• situer une personne / une action dans le temps et dans l’espace.\n• décrire les actions en les nommant et en les caractérisant.\n• Justifier un comportement.\n• Exprimer l’accord / le désaccord. \n",
+                                "supports": "Support collectif\nJ2 - P 1 - 2 - 3 - 4\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Compréhension : Texte :\n“ Les lunettes”\n-Manifester sa compréhension en réalisant les activités proposées.\n–Poser des questions.\n–Lire de manière intelligible et expressive.\n\nÉcriture : –Reproduire la lettre majuscule : G.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "4": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Reprise des objectifs de la J2\n– Exprimer le désaccord ; donner des ordres / des conseils. \n",
+                                "supports": "Situations au T.F\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Étude des graphies : –Reconnaître auditivement et visuellement la graphie gn.\n–Reproduire la graphie gn.\n–Lire des phrases\n\nP.E.L. : –Conjuguer le verbe “aller” au présent.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "5": {
+                    "sections": [
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Fonctionnement : Texte :\n“ Les lunettes”\n–Identifier les personnages.\n–Distinguer événements et dialogue.\n\nÉcriture : –Reproduire la lettre majuscule : K\n\nAutodictée : –Reproduire de mémoire le paragraphe suivant :\n“Agnès dessine sur une feuille une grenouille et un dauphin.Puis elle montre son dessin à sa sœur Mireille.”\n\nProjet (Entraînement) : –Distinguer événements et dialogue.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "6": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Rendre compte d’un événement de la vie quotidienne :\n• nommer des actions\n• situer une action/une personne dans le temps et dans l’espace.\n• décrire un état.\n• justifier un comportement.\n•émettre des hypothèses\n– Demander / donner des informations.\n",
+                                "supports": "Support collectif :\nJ5 - P 1 - 2 - 3\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Étude des graphies : –Reconnaître auditivement et visuellement la graphie ph.\n–Reproduire la graphie ph.\n–Lire des phrases.\n\nP.E.L. : –Produire des phrases intégrant le verbe “aller” au présent.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "7": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Reprise des objectifs de la J5 +.\n– Demander / donner des informations.\n",
+                                "supports": "T.F. + figurines\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture : a) Compréhension\nTexte :\n“Un petit écureuil”\n–Manifester sa compréhension en réalisant les activités proposées.\n–Poser des questions.\n–Lire de manière intelligible et expressive.\nb)Fonctionnement\n–Distinguer événements et dialogue.\n–Se repérer dans le récit.\n\nÉcriture : –Reproduire la lettre majuscule : Y.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "8": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Identifier la nationalité des personnes.\n– Décrire des personnes (aspect physique / habillement).\n– Nommer des animaux. \n",
+                                "supports": "Support collectif :\nJ7 - P 1 - 2 - 3\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Page vocabulaire : –Utiliser le vocabulaire appris au cours du module dans des activités ludiques: charades/ devinettes.\n\nDictée : –Écrire sous la dictée du maître le texte suivant :\n“C’est bientôt le printemps.Yvette et Agnès vont passer les vacances à la campagne chez leurs grands-parents.”\n",
+                                "supports": "Manuel\n"
+                            }
+                        }
+                    ]
+                },
+                "9": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : Exploitation de la page documentaire « Je découvre »\nNos amis les bêtes\n",
+                                "supports": "Manuel\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Page documentaire : –S’informer sur “Nos amies les bêtes”\n\nProjet (entraînement) : Distinguer événements et dialogue.\n\nJ’agis : –Fabriquer un chien en carton.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "nom": "Tends-moi la main !",
+            "journées": {
+                "1": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Mise en train : Poème : « Je te donne... » ou « On frappe »\nChant et conte au choix de l’enseignant. \n",
+                                "supports": ""
+                            }
+                        }
+                    ]
+                },
+                "2": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Rappel du mini-projet n° 2 « Je fais parler des personnages \n racontant un événement »\n– Brèves mises au point.\n– Présentation du module 4 et de la fiche contrat.\n",
+                                "supports": "Manuel\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Étude des graphies : –Reconnaître auditivement et visuellement la graphie x.\n–Reproduire la graphie x.\n–Lire des phrases\n\nP.E.L. : –Employer les déterminants (les articles).\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "3": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Décrire des actions en les nommant et les caractérisant\n– Indiquer la finalité d’une action.\n– Décrire un état.\n– Justifier un comportement.\n– Exprimer un souhait.\n",
+                                "supports": "Support collectif :\nJ2 - P 1 - 2 - 3\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Compréhension : Texte :\n“ Les grenouilles”\n–Manifester sa compréhension en réalisant les activités proposées.\n–Poser des questions.\n–Lire de manière intelligible et expressive.\n\nÉcriture : –Reproduire la lettre majuscule : E.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "4": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Reprise des objectifs de la J2 +\n– Justifier un comportement.\n– Demander / donner des informations. \n",
+                                "supports": "T.F. + figurines/images / dessins\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Étude des graphies : –Reconnaître auditivement et visuellement les graphies oin - ion - tion.\n–Reproduire les graphies oin - ion - tion.\n–Lire des phrases.\n\nP.E.L. : -Conjuguer les verbes en “er” au présent.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "5": {
+                    "sections": [
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Fonctionnement : Texte :\n“ Les grenouilles”\n–Identifier les personnages.\n–Distinguer événements et dialogue.\n\nÉcriture : –Reproduire la lettre majuscule : L.\n\nAutodictée : –Reproduire de mémoire le paragraphe suivant :\n“Max aide sa cousine Yvette à faire des soustractions et des multiplications.”\n\nProjet (Entraînement) : –Identifier les personnages.\n–Distinguer événe- ments et dialogue.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "6": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Décrire des scènes\n– Situer une action dans le temps et dans l’espace.\n– Informer / s’informer\n– Justifier un comportement.\n– Indiquer la finalité d’une action. \n",
+                                "supports": "Support collectif :\nJ5 - P 1 - 2 - 3 - 4\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Étude des graphies : –Reconnaître auditivement et visuellement la graphie y\n–Reproduire la graphie y\n–Lire des phrases.\n\nP.E.L. : –Produire des phrases intégrant les déterminants et les verbes en “er” au présent.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "7": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Reprise des objectifs de la J5.\n– Décrire des scènes (d’entraide). \n",
+                                "supports": "T.F. + figurines\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture : a)Compréhension\nTexte :\n“ Le tailleur fou”\n-Manifester sa compréhension en réalisant les activi-tés proposées.\n–Poser des questions.\n–Lire de manière\nintelligible et expressive.\nb)Fonctionnement\n–Identifier les personnages.\n–Distinguer événements et dialogue.\n\nÉcriture : –Reproduire la lettre majuscule : D.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "8": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Reprise des objectifs du module. \n",
+                                "supports": "Support collectif :\nJ7 - P 1 - 2 - 3\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Page vocabulaire : –Utiliser le vocabulaire appris au cours du module dans des activités ludiques : chasse aux mots...\n\nDictée : –Écrire sous la dictée du maître le texte suivant:“Les voitures et les camions roulent vite. Roxane et Daniel sont prudents. Ils font attention avant de traverser la rue.”\n",
+                                "supports": "Manuel\n"
+                            }
+                        }
+                    ]
+                },
+                "9": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : Exploitation de la page documentaire « Je découvre »\nLes commerçants de mon quartier \n",
+                                "supports": ""
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Page documentaire : –S’informer sur “Les commerçants de mon quartier”.\n\nProjet Production : Faire parler des personnages en racontant un événement.\n\nJ’agis : –Tracer un chemin sur un plan.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "nom": "Un cœur qui bat",
+            "journées": {
+                "1": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Mise en train : Poème : « Bain de soleil » ou « Le petit chat blanc »\nChant et conte au choix de l’enseignant. \n",
+                                "supports": ""
+                            }
+                        }
+                    ]
+                },
+                "2": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Présentation du mini-projet n°3«J’écris la recette d’un plat ou d’un gâteau de chez nous» - Début de planification.\n– Présentation du module 5 et de la fiche-contrat.\n",
+                                "supports": "Manuel\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Compréhension : Texte :\n“La petite malade”\n–Réaliser les activités proposées pour contrôler la compréhension du texte.\n–Poser des questions.\n–Lire de manière intelligible et expressive.\n\nP.E.L. : –Employer les déterminants (possessifs).\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "3": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Décrire une scène (désobéissance)\n– Exprimer des ordres / des conseils.\n– Interdire.\n• identifier des lieux.\n• situer une personne dans l’espace.\n",
+                                "supports": "Support collectif : J1 - P1\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Fonctionnement : Texte :\n“La petite malade”\n–Reformuler des conseils.\n–Donner des conseils.\n\nOrthographe : –Écrire correctement des mots contenant les graphies : c = ç = s.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "4": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Décrire des actions.\n– Exprimer des ordres/des conseils.\n– Interdire.\n",
+                                "supports": "T.F. + figurines/images / dessins\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Compréhension : Texte “La punition”\n–Réaliser les activités proposées pour contrôler la compréhension du texte.\n–Poser des questions\n–Lire de manière intelligible et expressive.\n\nP.E.L. : -Conjuguer les verbes en “ir” au présent.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "5": {
+                    "sections": [
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Fonctionnement : Texte “La punition”\n–Identifier ce type de texte\n–Décrire des actions\n–Identifier des ordres.\n\nOrthographe : –Écrire correctement des mots contenant m devant m, p et b.\n\nProjet (Entraînement) : –Donner des conseils.\n\nÉcriture : –Reproduire la lettre majuscule : S.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "6": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Décrire un état.\n– Identifier une personne en indiquant sa profession. (infir-mière).\n– Demander / donner des informations.\n– Faire des recommandations. \n",
+                                "supports": "Support collectif :\nJ5 - P 1 - 2 et 3\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Compréhension : Texte : “ Comment préparer une tisane”\n–Réaliser les activités proposées pour contrôler la compréhension du texte.\n–Poser des questions.\n–Lire de manière intelligible et expressive.\n\nP.E.L. : –Produire des phrases intégrant les déterminants et les verbes en “ir” au présent.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "7": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Décrire des actions.\n– Faire des recommandations.\n– Donner des conseils.\nLes formes affirmatives et négative.\n",
+                                "supports": "T.F. + Figurines / Images / Dessins\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Fonctionnement : Texte : “ Comment préparer une tisane”\n–Identifier ce type de texte.\n–Reformuler les conseils.\n–Donner des conseils.\n\nÉcriture : –Reproduire la lettre majuscule : I.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "8": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Raconter un événement.\n– Décrire un état.\n– Ordonner / donner des conseils.\n– Utiliser les formules de politesse.\n",
+                                "supports": "Support collectif :\nJ7 - P 1 - 2 - 3\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Page vocabulaire : –Utiliser le vocabulaire appris au cours du module dans des activités ludiques : devinettes...\n\nDictée : –Écrire sous la dictée du maître le texte suivant :\n“Maintement, Serge n’est plus malade mais il doit finir ses médicaments.”\n",
+                                "supports": "Manuel\n"
+                            }
+                        }
+                    ]
+                },
+                "9": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : Exploitation de la page documentaire « Je découvre »\nComment je grandis\n",
+                                "supports": ""
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Page documentaire : –S’informer sur “ Comment je grandis”.\n\nProjet (Entraînement) : Organiser des informations.\n\nJ’agis : –Se brosser les dents.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "nom": "Bon appétit !",
+            "journées": {
+                "1": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Mise en train : Poème : « Les bonbons » ou « J’ai trempé mon doigt » / chant au choix\nConte au choix de l’enseignant. \n",
+                                "supports": ""
+                            }
+                        }
+                    ]
+                },
+                "2": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : • Rappel du mini projet n°3 : “ j’écris la recette d’un plat ou d’un gâteau de chez nous”\n• Brèves mises au point.\n• Présentation du module 6 et de la fiche-contrat\n",
+                                "supports": "Manuel\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Compréhension : Texte : “ La galette du Petit Chaperon Rouge ”\n–Réaliser les activités proposées pour contrôler la compréhension du texte.\n–Poser des questions.\n–Lire de manière intelligible et expressive.\n\nP.E.L. : –Enrichir et réduire des phrases.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "3": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Décrire des actions\n– Nommer des aliments\n– Faire des recommandations\n",
+                                "supports": "Support collectif :\nJ2 - P1 et 2\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Fonctionnement : Texte : “ La galette du Petit Chaperon Rouge ”\n–Identifier ce type de texte.\n–Distinguer les ingrédients du ma-tériel.\n–Identifier les actions.\n–Identifier les verbes dans les étapes d’une recette.\n\nOrthographe : –Accorder le verbe avec son sujet.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "4": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – exprimer un ordre\n– nommer des objets\n",
+                                "supports": "Support collectif :\nJ3 - P1\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Compréhension : Texte : “ Un repas à l’école”\n–Réaliser les activités proposées pour contrôler la compréhension du texte.\n– Poser des questions.\n–Lire de manière intelligible et expressive.\n\nP.E.L. : -Conjuguer le verbe “faire” au présent.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "5": {
+                    "sections": [
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Fonctionnement : Texte : “ Un repas à l’école ”.\n–Identifier ce type de texte.\n–Distinguer “entrée”, “plat principal” et “dessert”.\n–Distinguer les “ingrédients” du “matériel”.\n–Mettre en ordre les étapes d’une recette.\n\nOrthographe : –Produire des phrases en veillant à accorder le verbe avec son sujet.\n\nProjet (Entraînement) : –Distinguer :ingrédients, ustensiles et étapes de préparation d’une recettte\n\nÉcriture : –Reproduire la lettre majuscule : J.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "6": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Situer une action dans le temps et dans l’espace.\n– Énumérer des objets (aliments/ ustensiles de cuisine).\n– Décrire des actions.\n– Donner des consignes.\n– Faire des recommandations.\n",
+                                "supports": "Support collectif :\nJ5 - P 1 - 2 - 3\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Compréhension : Texte : “La salade de fruits”\n–Réaliser les activités proposées pour contrôler la compréhension du texte.\n–Poser des questions.\n–Lire de manière intelligible et expressive.\n\nP.E.L. : –Produire des phrases réduites et / ou enrichies intégrant le verbe “faire” au présent.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "7": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Exprimer des ordres / des interdictions\n",
+                                "supports": "Support collectif :\nJ6 - P 1 - 2\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Fonctionnement : Texte : “La salade de fruits”\n–Identifier ce type de texte.\n–Distinguer “matériel” et “ce qu’il faut”.\n–Transformer une consigne de l’impératif à l’infinitif.\n\nÉcriture : –Reproduire la lettre majuscule : F.\n\nAutodictée : –Reproduire de mémoire le paragraphe suivant :\n“Julie ! fais bien attention à tes doigts quand tu couperas les fruits pour ta salade.”\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "8": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Situer une action dans le temps et dans l’espace\n– Décrire des actions / un lieu\n– Énumérer des aliments\n– Donner des consignes\n",
+                                "supports": "Support collectif :\nJ7 - P 1 - 2 - 3 - 4\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Page vocabulaire : –Utiliser le vocabulaire appris au cours du module dans des activités ludiques : devinettes (composition de menus, noms de fruits et légumes).\n\nDictée : –Écrire sous la dictée du maître le texte suivant :\n“Aujourd’hui, Mireille a beaucoup de travail : la famille Martin vient dîner.”\n",
+                                "supports": "Manuel\n"
+                            }
+                        }
+                    ]
+                },
+                "9": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : Exploitation de la page documentaire “Je découvre” : Quelques conseils pour cuisiner\n",
+                                "supports": ""
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Page documentaire : –S’informer sur quelques précautions à prendre en cuisine : “ Quelques conseils pour cuisiner. ”\n\nProjet Production : Écrire une recette.\n\nJ’agis : Faire du Pop-corn.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "nom": "Amusons-nous !",
+            "journées": {
+                "1": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Mise en train : Poème : « Faire de la musique » ou « Je veux rire » / chant au choix.\nConte au choix de l’enseignant. \n",
+                                "supports": ""
+                            }
+                        }
+                    ]
+                },
+                "2": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : • Présentation et début de planification du mini-projet n° 4 :\n« Je décris une fête ou une occupation de chez nous »\n• Présentation du module 7 et de la fiche-contrat\n",
+                                "supports": "Manuel\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Compréhension : Texte : “ Josette et ses poupées ”\n–Réaliser les activités proposées pour contrôler la compréhension du texte.\n–Poser des questions.\n–Lire de manière intelligible et expressive.\n\nP.E.L. : –Identifier le rôle et la place de l’adjectif qualificatif.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "3": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Caractériser une personne en indiquant la profession qu’elle exerce.\n– Identifier un métier.\n– Décrire une action\n",
+                                "supports": "Support collectif :\nJ2 - P1\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Fonctionnement : Texte : “ Josette et ses poupées ”\n–Identifier ce type de texte.\n–Identifier un personnage.\n–Repérer une description.\n–Décrire un objet.\n\nOrthographe : –Accorder l’adjectif qualificatif avec le nom qu’il accompagne.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "4": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Identifier un métier.\n– Identifier un animal.\n– Décrire / caractériser un animal\n",
+                                "supports": "Support collectif :\nJ3 - P1\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Compréhension : Texte : “ Au parc d’attractions ”\n–Réaliser les activités proposées pour contrôler la compréhension du texte.\n–Poser des questions.\n–Lire de manière intelligible et expressive.\n\nP.E.L. : –Conjuguer le verbe “mettre” au présent.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "5": {
+                    "sections": [
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Fonctionnement : Texte : “ Au parc d’attractions ”\n–Identifier ce type de texte.\n–Repérer une description.\n–Identifier un objet d’après sa description.\n–Compléter une description.\n\nOrthographe : –Produire des phrases intégrant l’adjectif qualificatif\n\nProjet (Entraînement) : –Décrire un animal\n\nÉcriture : –Reproduire la lettre majuscule : B.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "6": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Décrire un animal.\n– Décrire les étapes de la fabrication des cartes.\n– Identifier un animal.\n– Décrire un jeu.\n",
+                                "supports": "Support collectif : \nJ7 - P1\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Compréhension : Texte : “Sur la piste du cirque”\n–Réaliser les activités proposées pour contrôler la compréhension du texte.\n–Poser des questions.\n–Lire de manière intelligible et expressive.\n\nP.E.L. : –Produire des phrases intégrant l’adjectif qualificatif et le verbe “mettre” au présent.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "7": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Décrire les étapes de la fabrication du masque.\n– Décrire une attitude.\n– Dramatiser une scène (le texte «Les deux grenouilles»).\n",
+                                "supports": "Support collectif\nde la J5\n"
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Lecture Fonctionnement : Texte : “ Sur la piste du cirque ”\n–Identifier ce type de texte.\n–Distinguer actions et description.\n–Décrire un personnage.\n\nÉcriture : –Reproduire la lettre majuscule : P.\n\nAutodictée : –Reproduire de mémoire le paragraphe suivant : “Bernadette met sa main dans la main de sa cousine Pauline. Elles vont ensemble, ensuite, à la grande foire du village.”\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                },
+                "8": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : – Décrire un événement.\n– Reprise des objectifs du module.\n",
+                                "supports": ""
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Page vocabulaire : –Utiliser le vocabulaire appris au cours du module dans des activités ludiques:devinettes (des instruments à musique / des acrobates / des jeux d’enfants).\n\nDictée : –Produire sous la dictée du maître le texte suivant :“Les enfants aiment beaucoup le clown. Il est amusant avec son chapeau déformé, ses vêtements trop larges et ses chaussures trouées.”\n",
+                                "supports": "Manuel\n"
+                            }
+                        }
+                    ]
+                },
+                "9": {
+                    "sections": [
+                        {
+                            "id": "orale",
+                            "title": "Orale",
+                            "content": {
+                                "contenu": "Expression Orale : Exploitation de la page documentaire “Je découvre” Les clowns\n",
+                                "supports": ""
+                            }
+                        },
+                        {
+                            "id": "écrit",
+                            "title": "Écrit",
+                            "content": {
+                                "contenu": "Page documentaire : –S’informer sur “les clowns”.\n\nProjet (Entraînement) : Décrire un personnage.\n\nJ’agis : Faire “des maracas”.\n",
+                                "supports": "Manuel\nCahier d’activités\n"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
